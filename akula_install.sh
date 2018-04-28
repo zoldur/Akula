@@ -2,15 +2,15 @@
 
 TMP_FOLDER=$(mktemp -d)
 CONFIG_FILE='akula.conf'
-CONFIGFOLDER='/root/.akulacore'
+CONFIGFOLDER='/root/.akula'
 COIN_DAEMON='akulad'
 COIN_CLI='akula-cli'
 COIN_PATH='/usr/local/bin/'
-COIN_TGZ='https://github.com/zoldur/Akula/releases/download/v1.0.0.0/akula.tar.gz'
+COIN_TGZ='https://github.com/zoldur/Akula/releases/download/v2.0.0.3/akula.tar.gz'
 COIN_ZIP=$(echo $COIN_TGZ | awk -F'/' '{print $NF}')
 COIN_NAME='Akula'
-COIN_PORT=4568
-RPC_PORT=7860
+COIN_PORT=46782
+RPC_PORT=33000
 
 NODEIP=$(curl -s4 icanhazip.com)
 

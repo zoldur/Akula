@@ -62,7 +62,7 @@ systemctl is-enabled Akula #To check if Cubis service is enabled on boot
 
 Any donation is highly appreciated
 
-**AKL**: AdXXVnRotb8SA6g9Amemw95bvK817g3a9H  
+**AKL**: AZbVoCdVJtaTYEdb8ZWxsMcWACd86Yn3a8   
 **BTC**: 3MQLEcHXVvxpmwbB811qiC1c6g21ZKa7Jh  
 **ETH**: 0x26B9dDa0616FE0759273D651e77Fe7dd7751E01E  
 **LTC**: LNZpK4rCd1JVSB3rGKTAnTkudV9So9zexB  
